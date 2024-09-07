@@ -1,0 +1,57 @@
+body{
+	font-size:14pt;
+}
+.actual-bar{
+	background-image: url(solo.jpeg); 
+	width: auto;
+	height: 150px;
+	color: white;
+}
+.text-1{
+		font-size: 20pt;
+		width:360px;
+		margin-left:6px;
+		list-style: none;
+		display: inline-flex;
+		height: 40px;
+		text-decoration: none;
+		background-color: white;
+		font-family: sans-serif;
+}
+.useless:hover .text-1
+{
+    display: block;
+    position: relative;
+    margin-top: 2px;
+	background-color: white;
+	}
+	.image-1{
+		float: left;
+		width: auto;
+		background-color: transparent;
+	}
+	footer{
+		background-color: black;
+		color: white;
+		font-family: sans-serif;
+		font-size: 11pt;
+		width: auto;
+	}
+	.img{
+		width: 500px;
+		background-color: transparent;
+		text-align: left;
+		font-size: 13pt;
+	}
+	.footer_contact_form{
+		float: right;
+		background-color: black;
+		font-size: 16pt;
+	}
+	.footer_contact{
+		width: auto;
+		height: auto;
+	}
+	.footer_contact_text2{
+		text-align: left;
+	}
