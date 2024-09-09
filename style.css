@@ -7,23 +7,23 @@
 	height:auto;
 }
 body{
-	font-size:14pt;
+	font-size:1.042vw;
 }
 .actual-bar{
 	background-image: url(banner.png); 
 	width: auto;
-	height: 180px;
+	height: 14.229249011857707vw;
 	color: white;
 	padding: 0;
 	margin: 0%;
 }
 .text-1{
-		font-size: 20pt;
-		width:360px;
-		margin-left:6px;
+		font-size: 1.488vw;
+		width:28.458498023715414vw;
+		margin-left:0.4743083003952569vw;
 		list-style: none;
 		display: inline-flex;
-		height: 40px;
+		height: 3.1620553359683794vw;
 		text-decoration: none;
 		background-color: white;
 		font-family: sans-serif;
@@ -32,7 +32,7 @@ body{
 {
     display: block;
     position: relative;
-    margin-top: 2px;
+    margin-top: 0.15810276679841898vw;
 	background-color: white;
 	}
 	.image-1{
@@ -44,21 +44,21 @@ body{
 		background-color: black;
 		color: white;
 		font-family: sans-serif;
-		font-size: 11pt;
+		font-size: 0.818vw;
 		width: auto;
-		height: 300px;
+		height: 23.715415019762847vw;
 	}
 	.img{
-		width: 500px;
+		width:39.52569169960474vw;
 		background-color: transparent;
 		text-align: left;
-		font-size: 13pt;
-		font-size: 18pt;
+		font-size:0.967vw ;
+		font-size:1.339vw ;
 	}
 	.footer_contact_form{
 		float: right;
 		background-color: black;
-		font-size: 16pt;
+		font-size: 1.19vw;
 	}
 	.footer_contact{
 		width: auto;
@@ -66,24 +66,26 @@ body{
 	}
 	.footer_contact_text2{
 		text-align: left;
-		font-size: 18pt;
+		font-size: 1.339vw;
 	}
 	div.sectionz{
-		margin: 1px; padding: 1px; border: 1px solid #0000;
+		margin:0.16051364365971107vw ; 
+		padding:0.16051364365971107vw ; 
+		border: 0.16051364365971107vw solid #0000;
 		height: auto; width: auto; float: left;
 		text-align: left;
 	}
 	div.sectionz img{
 		display: inline;
-		margin: 1px;
-		border: 1px solid #0000;
+		margin: 0.16051364365971107vw;
+		border: 0.16051364365971107vw solid #0000;
 	}
 	div.sectionz a:hover img{
-		border: 1px solid #0000;
+		border: 0.16051364365971107vw solid #0000;
 	}
 	.animation{
-		width:300px;
-		height:300px;
+		width:48.154093097913325vw;
+		height:48.154093097913325vw;
 		background-color: black;
 		padding: 0%;
 		margin: 0%;
