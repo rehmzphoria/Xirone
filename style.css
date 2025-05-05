@@ -35,10 +35,6 @@ body{
     margin-top: 0.15810276679841898vw;
 	background-color: white;
 	}
-	.image-1{
-		float: left;
-		width: auto;
-		background-color: transparent;
 	}
 	footer{
 		background-color: black;
@@ -47,13 +43,6 @@ body{
 		font-size: 0.818vw;
 		width: auto;
 		height: 23.715415019762847vw;
-	}
-	.img{
-		width:39.52569169960474vw;
-		background-color: transparent;
-		text-align: left;
-		font-size:0.967vw ;
-		font-size:1.339vw ;
 	}
 	.footer_contact_form{
 		float: right;
